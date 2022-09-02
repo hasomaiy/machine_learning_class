@@ -1,1 +1,1 @@
-# machine_learning_class
+# machine_learning_problems
